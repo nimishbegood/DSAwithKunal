@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Comparison {
   public static void main(String[] args) {
-    System.out.println"Enter the two numbers");
+    System.out.println("Enter the two numbers");
     Scanner input = new Scanner(System.in) ;
     
     int a = input.nextInt() ;
